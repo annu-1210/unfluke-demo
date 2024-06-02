@@ -1,0 +1,12 @@
+.navbar-brand{
+    color: rgb(8, 123, 77);
+}
+
+.navbar{
+   background-color: #17181e;
+   
+}
+
+.collapse a{
+    color: white;
+}

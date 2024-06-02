@@ -1,0 +1,43 @@
+.nav-container {
+  background-color: white;
+  width: 100%;
+  padding: 1rem;
+  margin-right: 5rem;
+  /* padding-left: 2rem; */
+  /* border-radius: 5px; */
+ 
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+.nav-logo a {
+  color: rgb(35, 50, 80);
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.nav-links {
+  font-family: "Sedan SC", serif;;
+  display: flex;
+  flex-direction: column;
+  padding-left: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  gap: 2rem;
+}
+
+.nav-links a {
+  color: rgb(72, 70, 70);
+  text-decoration: none;
+  padding-top: 1.5rem;
+}
+
+.dash-icon {
+  color: rgb(52, 50, 50);
+}
